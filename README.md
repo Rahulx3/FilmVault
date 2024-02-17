@@ -19,8 +19,10 @@ FilmVault is a movie tracking web application built using Vite and React, levera
    ```bash
    git clone https://github.com/rahulx3/FilmVault.git
 2. **Install Dependencies:**
+   ```bash
    npm install
 3. **Run Project**
+   ```bash
    npm run dev
 
 Deployment on Vercel 🚀
